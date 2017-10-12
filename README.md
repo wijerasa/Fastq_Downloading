@@ -11,7 +11,7 @@ Then calculate "md5sum" for each "fastq" file in the "Downloads_Fastq" folder an
 2. check_sums.py - Run "md5sum" on all the files stored in 'Downloads_Fastq" folder
 
 ## Inputs
-3. fastq_urls.txt - Each line represent unique URL to a "fastq" file.
+3. fastq_urls.txt - Each line represents unique URL to a "fastq" file.
 
 ## Outputs
 4. Downloads_Fastq - Folder contains downloaded "fastq" files
