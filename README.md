@@ -2,7 +2,7 @@
 
 ## What this does:
 
-Python scripts given here will download 'fastq' files form remote server to "Downloads_Fastq" folder in your local server.
+Python scripts given here will download 'fastq' files from remote server to "Downloads_Fastq" folder in your local server.
 Then calculate "md5sum" for each "fastq" file in the "Downloads_Fastq" folder and report the output.
 
 ## Scripts
