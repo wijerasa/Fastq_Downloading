@@ -1,0 +1,4 @@
+http://test.org/v1/AUTH_huda/JDEkc1ZwdTZmaHM/CBTAUANXX_s3_1_illumina12index_9_SL267844.fastq.gz
+http://test.org/v1/AUTH_huda/JDEkc1ZwdTZmaHM/CBTAUANXX_s3_2_illumina12index_9_SL267844.fastq.gz
+http://test.org/v1/AUTH_huda/JDEkc1ZwdTZmaHM/CBTAUANXX_s3_2_illumina12index_1_SL267821.fastq.gz
+http://test.org/v1/AUTH_huda/JDEkc1ZwdTZmaHM/CBTAUANXX_s3_1_illumina12index_1_SL267821.fastq.gz
